@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: motioneye
+Version: 0.42.1
+Summary: motionEye server
+Home-page: https://github.com/ccrisan/motioneye/
+Author: Calin Crisan
+Author-email: ccrisan@gmail.com
+License: GPLv3
+Keywords: motion video surveillance frontend
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Multimedia :: Video
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: jinja2
+Requires-Dist: pillow
+Requires-Dist: pycurl
+Requires-Dist: tornado (<6,>=3.1)
+
+**motionEye** is a web-based frontend for `motion <https://motion-project.github.io>`_. Check out the `wiki <https://github.com/ccrisan/motioneye/wiki>`_ for more details.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/ccrisan/motioneye
+   :target: https://gitter.im/ccrisan/motioneye?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+You can support the development of motionEye by making a small donation.
+
+.. image:: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
+   :alt: [paypal]
+   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ccrisan%40gmail%2ecom&lc=US&item_name=motionEye&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest
+
+
+
