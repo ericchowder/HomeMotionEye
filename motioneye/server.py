@@ -371,7 +371,7 @@ def run():
 
     if settings.CLEANUP_INTERVAL:
         cleanup.start()
-        logging.info('cleanup started')
+        logging.info('SYL - cleanup started')
         
     wsswitch.start()
     logging.info('wsswitch started')
